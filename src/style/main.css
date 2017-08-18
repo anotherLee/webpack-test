@@ -1,0 +1,10 @@
+
+body{
+    background:red;
+}
+
+div{
+    background:url('../assets/123.jpg');
+    width:500px;
+    height:500px;
+}
